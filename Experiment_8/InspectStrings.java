@@ -2,9 +2,9 @@ package Experiment_8;
 
 public class InspectStrings {
     public static void main(String[] args) {
-        
+
         String str1 = "Apple";
-        String str2 = "Apple";
+        String str2 = "Banana";
 
         int result = str1.compareTo(str2);
 
